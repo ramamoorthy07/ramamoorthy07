@@ -1,6 +1,6 @@
 <div align="center"> 
- <img src="https://i.gifer.com/HaD1.gif" width="250" height="260"> 
- <img src="https://github.com/Shrivishnu22/Shrivishnu22/blob/main/profile.gif" width="500" height="260"> 
+ <img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="250" height="260"> 
+ <img src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif" width="500" height="260"> 
 </div>
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ramamoorthy!</h1>
