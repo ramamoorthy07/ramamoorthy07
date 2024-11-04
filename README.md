@@ -50,10 +50,15 @@ I'm an AI Engineer with a passion for developing innovative AI solutions and opt
 - [LangGraph Certification](https://img.shields.io/badge/LangGraph-Certified-FF4500?style=flat&logo=langgraph&logoColor=white) - July 2024
 - [Certified AWS Solution Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) - Sep 2021
 
+## 📊 Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true)
+
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ramamoorthy07/)
