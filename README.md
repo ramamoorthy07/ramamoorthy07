@@ -1,67 +1,63 @@
-<div align="center"> 
- 
- <center><img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="250" height="260">  </center>
- <img src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif" width="500" height="260">
-
-</div>
-
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ramamoorthy!</h1>
-
-I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=ramamoorthy07&label=Profile%20views&color=ce9927&style=flat" alt="ramamoorthy07" /> </p>
-⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
-
-<h1 align="center">Tech-Stack</h1>
-
-I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with Django, React Js, Node Js, Express Js, Docker, JavaScript, SaSS, SQL and so on. So these tech stacks make my friends believe in me as a good lead!
-
-<p align="center"> 
- <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
-</p>
-
-I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
-
-
-<hr>
-<h1 align="center">Let's Get Connected</h1>
-
-I believe <b>"Network is Networth"<b>. Alone we can do so little; together we can do so much. So <strong>Feel free to connect me on<strong> </p>
+# Hi there, I'm Ramamoorthy S 👋
 
 <div align="center">
-
-
-<a  href="https://www.linkedin.com/in/ramamoorthy07/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="kts.ramamoorthy07@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
- </a>
- <a href="https://www.hackerrank.com/kts_ramamoorthy1"> <img src="https://img.shields.io/badge/hackerrank-209230?style=for-the-badge&logo=hackerrank&logoColor=white">
- </a>
- 
-
-
+  <img src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" height="200" alt="AI GIF">
 </div>
 
-<h1 align="center">Github Stats</h1>
- <div align="center" >
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ramamoorthy07&show_icons=true&theme=gotham" alt="ramamoorthy07" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramamoorthy07&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
-</div> 
- <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramamoorthy07")>
-<div align="center">
 
- ### Coding Stats
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
-<!--..-->
- 
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramamoorthy07&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+## About Me
+I'm an AI Engineer with a passion for developing innovative AI solutions and optimizing performance. Skilled in Python, TensorFlow, and Generative AI technologies, I have a proven track record of delivering high-impact projects and driving advancements in AI applications.
+
+- 🌱 Currently exploring **Generative AI** and **Retrieval-Augmented Generation** techniques.
+- 👯‍♂️ I’m looking to collaborate on **AI-driven projects**.
+- 💬 Ask me about **Python**, **Machine Learning**, or any cool AI ideas!
+- 📫 Reach me at: [kts.ramamoorthy07@gmail.com](mailto:kts.ramamoorthy07@gmail.com)
+
+## Skills & Tech Stack
+
+### Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-FF7F50?style=flat&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-2B3A42?style=flat&logo=crewai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F20?style=flat&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-212121?style=flat&logo=openai&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+### Database & Vector Stores
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-00C5A0?style=flat&logo=pinecone&logoColor=white)
+
+### Cloud Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+## Certifications
+- [Neo4j Certified Professional](https://neo4j.com/certification/) - Sep 2024
+- [Certified GenAI Fundamentals](https://databricks.com/certification) - May 2024
+- [LangGraph Certification](https://img.shields.io/badge/LangGraph-Certified-FF4500?style=flat&logo=langgraph&logoColor=white) - July 2024
+- [Certified AWS Solution Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) - Sep 2021
+
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/ramamoorthy07/)
+- [Medium](https://medium.com/@kts.ramamoorthy07)
+- [HackerRank](https://www.hackerrank.com/profile/kts_ramamoorthy)
+
+Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or chat!
