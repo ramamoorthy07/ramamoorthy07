@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A2F5E&height=180&section=header&text=Ramamoorthy%20S&fontSize=72&fontColor=58A6FF&desc=AI%20Engineer%20%E2%80%94%20Azure%20Cloud%20Architect&descSize=22&descColor=8b949e&animation=fadeIn&fontAlignY=45&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8901A,100:0078D4&height=220&section=header&text=Ramamoorthy%20S&fontSize=72&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%94%20Azure%20Cloud%20Architect&descSize=22&descColor=FFE5B4&animation=fadeIn&fontAlignY=35&descAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -46,9 +46,8 @@ class RamamoorthyS:
 
 </div>
 
-<!-- ≋≋≋ WAVE DIVIDER ≋≋≋ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2F5E,100:0D1117&height=80&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A2F5E&height=80&section=header" width="100%"/>
+
+---
 
 ## 🧠 Expertise Levels
 
@@ -73,9 +72,8 @@ class RamamoorthyS:
 
 </div>
 
-<!-- ≋≋≋ WAVE DIVIDER ≋≋≋ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2F5E,100:0D1117&height=80&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A2F5E&height=80&section=header" width="100%"/>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -103,13 +101,12 @@ class RamamoorthyS:
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58A6FF/ramamoorthy07" alt="Ramamoorthy's Contribution Chart" width="100%" />
+<img src="https://ghchart.rshah.org/39D353/ramamoorthy07" alt="Ramamoorthy's Contribution Chart" width="100%" />
 
 </div>
 
-<!-- ≋≋≋ WAVE DIVIDER ≋≋≋ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2F5E,100:0D1117&height=80&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A2F5E&height=80&section=header" width="100%"/>
+
+---
 
 ## 📜 Certifications
 
@@ -125,4 +122,4 @@ class RamamoorthyS:
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2F5E,100:0D1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:E8901A&height=120&section=footer" width="100%"/>
